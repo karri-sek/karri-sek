@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm sekhar</h1>
-<h3 align="center">A passionate full stack developer developer </h3>
+<h3 align="center">A passionate full stack developer </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karri-sek" alt="karri-sek" /> </p>
 
 - 🔭 I’m currently working on **LBG**
